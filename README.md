@@ -2,13 +2,10 @@
 
 A simple yet effective machine learning project that classifies text messages as **spam** or **not spam** using a Multinomial Naive Bayes classifier. Built with `scikit-learn` and deployed using **Streamlit** for real-time predictions.
 
----
-
 ## 🚀 Live Demo
 
 🔗 [Streamlit App](https://spamclassification-git-3wqdqv56uonwx86qxumgk6.streamlit.app/)
 
----
 
 ## 🧠 Project Overview
 
@@ -18,7 +15,6 @@ A simple yet effective machine learning project that classifies text messages as
 - **Accuracy**: ~98.6% on test data
 - **Deployment**: Streamlit web app
 
----
 
 ## 🗂️ Dataset
 
@@ -28,7 +24,6 @@ A simple yet effective machine learning project that classifies text messages as
   - `Category`: `spam` or `ham`
   - `Message`: the actual text message
 
----
 
 ## 🛠️ Tech Stack
 
@@ -37,7 +32,6 @@ A simple yet effective machine learning project that classifies text messages as
 - Scikit-learn
 - Streamlit
 
----
 
 ## 📈 Model Performance
 
@@ -48,7 +42,7 @@ A simple yet effective machine learning project that classifies text messages as
 | Vectorizer | CountVectorizer (with stopwords) |
 | Classifier | Multinomial Naive Bayes          |
 -------------------------------------------------
----
+
 
 ## 🧪 How It Works
 
@@ -58,5 +52,4 @@ A simple yet effective machine learning project that classifies text messages as
 4. Train a Naive Bayes classifier
 5. Predict and display results in a Streamlit app
 
----
 
